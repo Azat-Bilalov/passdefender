@@ -2,5 +2,5 @@ colorama==0.4.3
 pycryptodome==3.9.4
 pycryptodomex==3.9.0
 progressbar==2.5
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pyfiglet==0.8.post1
